@@ -4,9 +4,22 @@
 
 * Introdução 
     * Quais areas em que são utilizados python ???
-* Abordagem a liguagem:
-    * Variáveis 
+      * Datamining
+      * Processamento de imagem
+      * Mercado financeiro
+      * Entre outros...
+* Temas do curso:
+    * Variáveis
+      * Int
+      * Float
+      * Strings
+      * Set
+    * Operadores matemáticos
     * Loops
-    * Expresões lógicas
-    * Funções 
-    * Exercicios.
+      * While
+      * For
+    * Expressões lógicas
+      * If else
+    * Funções
+      * Recursividade
+    * Exercícios.
