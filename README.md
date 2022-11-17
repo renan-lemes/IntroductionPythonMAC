@@ -1,8 +1,8 @@
 ## Semana da matemática.
 
-Resumo:
-O objetivo deste mini curso é ensinar sobre a linguagem python, matemática e lógica de programação, focando na resolução de problemas através da linguagem, auxiliando também o pensar criativo.
-Vai encontra-se a apresentação mais detalhada de informações como: características básicas da linguagem, tipos de dados; variáveis; constantes internas; operadores aritméticos; expressões aritméticas; operações de entrada e saída; condições; decisões; operadores relacionais e lógicos; desvios condicionais; ações de divisibilidade; expressões condicionais; laços; sub-rotinas como funções e procedimentos; passagens de parâmetros e entre outros.
+Resumo:\
+O objetivo deste mini curso é ensinar sobre a linguagem python, matemática e lógica de programação, focando na resolução de problemas através da linguagem, auxiliando também o pensar criativo.\
+Vai encontrar informações mais detalhada como: características básicas da linguagem, tipos de dados; variáveis; constantes internas; operadores aritméticos; expressões aritméticas; operações de entrada e saída; condições; decisões; operadores relacionais e lógicos; desvios condicionais; ações de divisibilidade; expressões condicionais; laços; sub-rotinas como funções e procedimentos; passagens de parâmetros e entre outros.
 
 
 
