@@ -10,16 +10,16 @@
       * Entre outros...
 * Temas do curso:
     * Variáveis
+      * Bool
       * Int
       * Float
       * Strings
-      * Set
     * Operadores matemáticos
+    * Expressões lógicas
+      * If else
     * Loops
       * While
       * For
-    * Expressões lógicas
-      * If else
     * Funções
       * Recursividade
     * Exercícios.
