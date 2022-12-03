@@ -64,6 +64,7 @@
 # print(f'Aprovadou/Reprovado {apr} media : {media} frequencia: {frq} ')
 
 # 6
+
 # def fatorial(n):
 #     if type(n) != int:
 #         print('Esse fatorial não é interavel.')
@@ -84,4 +85,66 @@
 
 # 7 
 
+# def Ark(m,n):
+#     if m==0:
+#         return n+1
+#     elif m > 0 and n == 0:
+#         return Ark(m-1, 1)
+#     elif m > 0 and n > 0:
+#         return Ark(m-1, Ark(m, n-1))
 
+# arkman  = Ark(3, 4)
+
+# print(arkman)
+
+
+# 8
+# from math import pi
+
+
+# def Pi():
+#     n = 0
+#     p_i = 0
+#     while True:
+        
+#         p_i += ((-1)**n)/(2*n + 1)
+
+#         if n == 1000:
+#             return p_i * 4 
+#         n += 1    
+
+
+# print(f' Função {Pi()} e PI {pi}')
+# print(f' Diferença {Pi() - pi}')
+
+
+# 9
+
+# from math import exp
+# #from math import factorial
+
+# def expon(x):
+#     n = 0
+#     e = 0 
+#     while True:
+#         e += (x**n)/fatorial(n)
+#         n += 1
+#         if n == 100:
+#             return e
+
+
+# print(exp(2))
+# print(expon(2))
+
+
+# 10
+
+# def fibon(n):
+#     if n == 0 :
+#         return 0
+#     elif n == 1:
+#         return 1
+#     else:
+#         return (fibon(n-1) + fibon(n-2))
+    
+# print(fibon(7))
