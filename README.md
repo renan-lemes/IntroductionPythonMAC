@@ -9,7 +9,7 @@
       * Mercado financeiro
       * Entre outros...
 * Temas do curso:
-    * Variáveis
+    * Tipos de variáveis
       * Bool
       * Int
       * Float
@@ -17,6 +17,7 @@
     * Operadores matemáticos
     * Expressões lógicas
       * If else
+      * And or
     * Loops
       * While
       * For
